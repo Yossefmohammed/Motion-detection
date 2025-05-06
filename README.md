@@ -34,7 +34,7 @@ A real-time motion detection system built with Python and OpenCV that can detect
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Motion-detection.git
+git clone https://github.com/Yossefmohammed/Motion-detection.git
 cd Motion-detection
 ```
 
@@ -111,8 +111,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Youssef - [Your Email]
-Project Link: [https://github.com/yourusername/Motion-detection](https://github.com/yourusername/Motion-detection)
+Youssef - [ypssefmohammedahmed@gmail.com]
+Project Link: [https://github.com/Yossefmohammed/Motion-detection](https://github.com/Yossefmohammed/Motion-detection)
 
 ## 📄 License
 
